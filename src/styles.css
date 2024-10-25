@@ -71,10 +71,10 @@ footer {
 }
 
 
-footer nav ul {
-    display: flex;
-    gap: 46px;
-    align-items: center;
+footer {
+    gap: 50px;
+    align-items: right;
     justify-content: space-between;
     width: 100%;
+    display: flex;
 }
